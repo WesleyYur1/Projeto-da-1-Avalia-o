@@ -24,7 +24,7 @@ A Geek Station é uma loja fictícia de colecionáveis e produtos geek, oferecen
 Fonte importada via Google Fonts:  
 ```html
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-
+```
 ## Checklist
 
 - [✔]  3 páginas mínimas (Home/Sobre/Contato) + links funcionando.
