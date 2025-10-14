@@ -22,7 +22,7 @@ A Geek Station é uma loja fictícia de colecionáveis e produtos geek, oferecen
 - **Roboto** → textos  
 
 Fonte importada via Google Fonts:  
-html
+```html
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 ## Checklist
