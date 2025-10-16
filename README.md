@@ -36,4 +36,4 @@ Fonte importada via Google Fonts:
 - [✔]  Imagens otimizadas com `alt` descritivo.
 - [✔]  README com papéis, paleta, fontes e decisões.
 - [✔]  Site no ar.
-- []  Vídeo de demonstração.
+- [✔]  Vídeo de demonstração.
